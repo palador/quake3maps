@@ -1,0 +1,7 @@
+{
+map			"q30bddittmer"
+bots		"cadavre bones doom"
+longname	"Q3 BD DITTMER"
+fraglimit	"30"
+type		"tourney ffa"
+}
